@@ -1,0 +1,24 @@
+{
+  "name": "odin-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregmjsco/odin-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregmjsco/odin-testing/issues"
+  },
+  "homepage": "https://github.com/gregmjsco/odin-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
